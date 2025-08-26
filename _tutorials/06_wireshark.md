@@ -1,6 +1,7 @@
 ---
 type: tutorial
-date: 2024-10-07
+date: 2025-10-06
+date2: 2025-10-08
 title: Usage of network tools
 thumbnail: /static_files/presentations/lec.jpg
 links: 
@@ -8,3 +9,4 @@ links:
       name: slides
 hide_from_announcments: true
 ---
+How to use ping, iperf, traceroute, wireshark, etc.

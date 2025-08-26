@@ -20,10 +20,10 @@ items:
   icon_class: fas fa-user-graduate
 
 externals:
-- url: https://www.gradescope.com/courses/834069
+- url: https://www.gradescope.com/courses/1102481
   name: Gradescope
   icon_class: fas fa-user-graduate
 
-- url: https://edstem.org/au/courses/16830/discussion/
+- url: https://edstem.org/au/courses/27746/discussion/
   name: Ed
   icon_class: fas fa-book-reader

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-01
+date: 2025-10-29
 title: NO LECTURE
 thumbnail: /static_files/presentations/lec.jpg
 # links: 

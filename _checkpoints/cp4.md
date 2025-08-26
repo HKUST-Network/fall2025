@@ -1,10 +1,10 @@
 ---
 type: checkpoint
-date: 2024-10-31
+date: 2025-11-05
 title: 'Checkpoint 4: Design your own algorithm!'
 due_event: 
     type: due
-    date: 2024-11-15T23:59:59+8:00
+    date: 2025-11-21T23:59:59+8:00
     description: 'Checkpoint #4 due'
 ---
 

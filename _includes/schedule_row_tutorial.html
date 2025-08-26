@@ -1,7 +1,16 @@
-<div class="col col-1" style="font-weight: bold;" data-label="Event">Tutorial</div>
+<div class="col col-1" data-label="Event">Tutorial</div>
 <div class="col col-1-2" data-label="Date">
     {{ include.event.date | date: site.dateformat }}
-    <br class="date-spliter"/>{{ include.event.date | date: "%A" }}
+    {% if include.event.date2 %}
+     and 
+    {{ include.event.date2 | date: site.dateformat }}
+    {% endif %}
+    <br class="date-spliter"/>
+    {{ include.event.date | date: "%a" }}
+    {% if include.event.date2 %}
+     and 
+    {{ include.event.date2 | date: "%a" }}
+    {% endif %}
 </div>
 <div class="col col-2" data-label="Description">
     {{ include.event.title }}
@@ -20,7 +29,7 @@
         {% endfor %}
     </ul>
     {% endif %} -->
-    {% if include.event.content != '' %}
+    {% if include.event.content %}
     {{ event.content }} 
     {% endif %}
 </div>

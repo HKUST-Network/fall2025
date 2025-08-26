@@ -5,22 +5,22 @@ instructors:
     email: zilim@ust.hk
 
 teaching_assistants:
-  - name: Wei Li
-    profile_pic: https://github.com/LW945/lw945.github.io/raw/master/images/my_photo.jpg
+  - name: Wei Li (Lead TA)
+    profile_pic: https://lw945.github.io/images/my_photo.jpg
     webpage: https://lw945.github.io/
     email: wlidq@connect.ust.hk
 
-  - name: Xiangyue Liu
-    profile_pic: https://xiangyueliu.github.io/images/me.jpg
-    webpage: https://xiangyueliu.github.io/
-    email: xliufz@connect.ust.hk
+  - name: Hua Meng
+    profile_pic: https://huameng15.github.io/images/IMG_8869.JPG
+    webpage: https://huameng15.github.io/
+    email: hmengab@connect.ust.hk
 
-  - name: Yufan Zhuang
-    profile_pic: /_images/pp/yufan.jpg
+  - name: Yibin Shen
+    profile_pic: https://unc.nc/wp-content/uploads/2020/07/Portrait_Placeholder.png
     # webpage: https://en.wikipedia.org/wiki/Ron_Weasley
-    email: yzhuangah@connect.ust.hk
+    email: yshench@connect.ust.hk
     
-  - name: Leon Ho
-    profile_pic: /_images/pp/leon.jpg
+  - name: Jiayang Xu
+    profile_pic: https://unc.nc/wp-content/uploads/2020/07/Portrait_Placeholder.png
     # webpage: https://en.wikipedia.org/wiki/Ron_Weasley
-    email: yihoaa@connect.ust.hk
+    email: jxudn@connect.ust.hk

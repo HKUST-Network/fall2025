@@ -8,11 +8,9 @@ The goal is for students to learn not only what computer networks are and how th
 
 For potential students, please read the announcement below before you decide to add this course.
 
-### **NEW!!** 
-
-As you might have noticed, the quota for ELEC3120 is doubled from the past semesters. This is because ELEC3120 will only be offered in the Fall semester from now on and will not be available in Spring 2025. Please plan your course schedules accordingly to accommodate this change. 
-
 ### Am I suitable for this course?
+
+We welcome all ELEC, CPEG, and COMP students, as well as students from other places!
 
 ELEC 3120 is full of fun -- you will learn how the Internet works, how to build a network, and how to secure it.
 Now when I look back, I can see that the computer network is full of clever yet simple ideas, and I want to convey these ideas to you.
@@ -36,7 +34,7 @@ And also, for many ELEC students, this will be the only programming project in y
 
 ### What's the policy of using AI tools?
 
-This course strongly encourages the use of generative artificial intelligence tools to complete assessment tasks. You will have the opportunity to learn to use a series of tools, such as GitHub Copilot, in your project.
+This course strongly encourages the use of generative artificial intelligence tools to complete assessment tasks. You will have the opportunity to learn to use a series of tools, such as GitHub Copilot and Cursor, in your project.
 We also encourage you to use GPT to better understand how network works.
 But be careful! We have a strict policy on plagiarism. 
 If your assignments are detected to be copied or AI-generated, this will be a serious issue.
@@ -45,9 +43,9 @@ If your assignments are detected to be copied or AI-generated, this will be a se
 
 | Class | Time | Location |
 |:---:|:---:|:---:|
-| Lecture | TuTh 3:00PM - 4:20PM | [Lecture Theater D](https://pathadvisor.ust.hk/nearest/lift/to/LTD;bFQMqeWF_ERU;1;1893,450/floor/1/at/normalized/1893,450,3) |
-| Tutorial T1 | Mo 9:30AM - 10:20AM | [Rm 1034, LSK Bldg](https://pathadvisor.ust.hk/search/nearest/lift/to/ROOM%201034;f9_NTYWV4bOh;LSK1;461,597/floor/LSK1/at/normalized/24,827,3) |
-| Tutorial T2 | Mo 6:00PM - 6:50PM | [Rm 6573, Lift 29-30](https://pathadvisor.ust.hk/search/nearest/lift/to/ROOM%206573;66ShdpdBdYbD;6;2848,-359/floor/6/at/normalized/2737,40,3) |
+| Lecture | MoWe 10:30AM - 11:50AM | [Lecture Theater D](https://pathadvisor.ust.hk/nearest/lift/to/LTD;bFQMqeWF_ERU;1;1893,450/floor/1/at/normalized/1893,450,3) |
+| Tutorial T1 | Mo 9:30AM - 10:20AM | [LG3008, Lift 10-12](https://pathadvisor.ust.hk/search/nearest/lift/to/ROOM%20LG3008;nsloCUCPRf;LG3;-333,183/floor/LG3/at/normalized/-267,453,3) |
+| Tutorial T2 | We 12:00PM - 12:50PM | [Rm 6555, Lift 29-30](https://pathadvisor.ust.hk/search/nearest/lift/to/ROOM%206555;4xEmkrf9gR;6;2679,-155/floor/6/at/normalized/1517,53,3) |
 
 ## Prerequisites
 
@@ -58,9 +56,9 @@ If you believe you are capable of the knowledge of C++ programming but do not sa
 
 ## Resources
 
-* [Ed](https://edstem.org/au/courses/16830/discussion/).\
+* [Ed](https://edstem.org/au/courses/27746/discussion/).\
   For all course-related questions, you are **strongly discouraged** to email the instructor directly unless privacy concerns are involved. Instead, post your questions on Ed (it can be anonymous). Other students can benefit from the answer as well.
-* [Gradescope](https://www.gradescope.com/courses/834069).\
+* [Gradescope](https://www.gradescope.com/courses/1102481).\
   For submitting homework assignments and projects.
 * [Github repo](https://github.com/HKUST-Network/foggytcp).\
   For releasing code template for projects.
