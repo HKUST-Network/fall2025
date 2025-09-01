@@ -4,10 +4,10 @@ date: 2025-09-01
 title: Network Transmission and Performance
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    # - url: https://canvas.ust.hk/courses/58326/files/9264933?module_item_id=1369052
-    #   name: slides
-    # - url: https://canvas.ust.hk/courses/58326/pages/elec3120-l1-2024-09-03-15-00
-    #   name: recording
+    - url: https://canvas.ust.hk/courses/65049/modules/items/1632222
+      name: slides
+    - url: https://canvas.ust.hk/courses/65049/pages/elec3120-l1-2025-09-01-10-30
+      name: recording
 hide_from_announcments: true
 ---
 **Suggested Readings:**
