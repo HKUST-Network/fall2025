@@ -58,9 +58,9 @@ Similarly, debugging files and other files generated on the containers will auto
 ## DNS Domain Issue
 
 If your vagrant VMs fail to connect to the Internet and execute commands such as "sudo apt-get install", please use the following command within your VMs:
-'''bash
+```bash
 sudo bash -c 'echo "nameserver 8.8.8.8" > /etc/resolv.conf'
-'''
+```
 
 # Run the server and client
 
