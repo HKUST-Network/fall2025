@@ -55,6 +55,13 @@ Vagrant keeps all files synchronized between your host machine and the two conta
 In other words, the code will update automatically on the containers as you edit it on your computer. 
 Similarly, debugging files and other files generated on the containers will automatically appear on your host machine.
 
+## DNS Domain Issue
+
+If your vagrant VMs fail to connect to the Internet and execute commands such as "sudo apt-get install", please use the following command within your VMs:
+'''bash
+sudo bash -c 'echo "nameserver 8.8.8.8" > /etc/resolv.conf'
+'''
+
 # Run the server and client
 
 ## Build the binaries
