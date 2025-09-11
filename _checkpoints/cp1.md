@@ -107,7 +107,7 @@ Then you need to check the network interface name of your VM:
 ifconfig
 ```
 
-Then you can set traffic control to this interface. For example, use the following command to set one-way latency to be 100ms:
+Then you can set traffic control to this interface. For example, use the following command on the client side to set one-way latency to be 100ms:
 ```bash
 sudo tcset $IFNAME --delay 100ms
 ```
@@ -153,6 +153,11 @@ The following parameter configurations are for your reference. You are free to t
 - Bandwidth = 10Mbps
 - Delay = 10ms
 - Filesize = 1KB, 5KB, 25KB, 100KB, 1MB,10MB
+
+To create a file with a desired size:
+```bash
+fallocate -x -l 1M 1M.txt
+```
 
 **Test 2**
 - Dealy = 10ms
