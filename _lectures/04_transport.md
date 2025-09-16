@@ -4,7 +4,7 @@ date: 2025-09-17
 title: Transport Model
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: https://canvas.ust.hk/courses/58326/modules/items/1428551
+    - url: https://canvas.ust.hk/courses/65049/modules/items/1650163
       name: slides
     # - url: https://canvas.ust.hk/courses/58326/pages/elec3120-l1-2024-09-17-15-00
     #   name: recording
