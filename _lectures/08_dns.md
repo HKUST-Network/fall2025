@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-06
+date: 2025-10-15
 title: IP and DNS
 thumbnail: /static_files/presentations/lec.jpg
 links: 

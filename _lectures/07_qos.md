@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-29
+date: 2025-10-06
 title: Queue Management
 thumbnail: /static_files/presentations/lec.jpg
 links: 

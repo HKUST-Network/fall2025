@@ -10,5 +10,4 @@ links:
     #   name: notes   
 hide_from_announcments: true
 ---
-**Suggested Readings:**
 

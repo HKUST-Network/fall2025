@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-24
+date: 2025-09-29
 title: Advanced Congestion Control
 thumbnail: /static_files/presentations/lec.jpg
 links: 

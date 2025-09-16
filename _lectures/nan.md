@@ -8,5 +8,4 @@ thumbnail: /static_files/presentations/lec.jpg
 #       name: slides
 hide_from_announcments: true
 ---
-**Suggested Readings:**
 

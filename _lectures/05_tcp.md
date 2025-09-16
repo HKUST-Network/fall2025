@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-17
+date: 2025-09-22
 title: TCP Basics
 thumbnail: /static_files/presentations/lec.jpg
 links: 
