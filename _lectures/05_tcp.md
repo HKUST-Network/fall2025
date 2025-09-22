@@ -4,8 +4,8 @@ date: 2025-09-22
 title: TCP Basics
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    # - url: https://canvas.ust.hk/courses/58326/modules/items/1430893
-    #   name: slides
+    - url: https://canvas.ust.hk/courses/65049/modules/items/1653231
+      name: slides
     # - url: https://canvas.ust.hk/courses/58326/pages/elec3120-l1-2024-09-19-15-00
     #   name: recording
     # - url: https://canvas.ust.hk/courses/58326/modules/items/1435564
