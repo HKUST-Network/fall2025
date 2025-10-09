@@ -4,10 +4,10 @@ date: 2025-10-06
 title: Queue Management
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    # - url: https://canvas.ust.hk/courses/58326/modules/items/1437137
-    #   name: slides
-    # - url: https://canvas.ust.hk/courses/58326/pages/elec3120-l1-2024-10-03-15-00
-    #   name: recording
+    - url: https://canvas.ust.hk/courses/65049/modules/items/1659790
+      name: slides
+    - url: https://canvas.ust.hk/courses/65049/pages/elec3120-l1-2025-10-06-10-30
+      name: recording
 hide_from_announcments: true
 ---
 **Suggested Readings:**
