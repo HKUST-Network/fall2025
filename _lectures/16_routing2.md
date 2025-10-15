@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-05
+date: 2025-11-10
 title: Link Layer Challenge
 thumbnail: /static_files/presentations/lec.jpg
 links: 

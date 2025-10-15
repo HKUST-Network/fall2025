@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-19
+date: 2025-11-24
 title: Network Security
 thumbnail: /static_files/presentations/lec.jpg
 links: 

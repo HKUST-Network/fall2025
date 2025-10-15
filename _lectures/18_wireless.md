@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-10
+date: 2025-11-12
 title: Wireless and Mobile Networks
 thumbnail: /static_files/presentations/lec.jpg
 links: 

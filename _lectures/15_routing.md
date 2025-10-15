@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-03
+date: 2025-11-05
 title: LAN Routing
 thumbnail: /static_files/presentations/lec.jpg
 links: 

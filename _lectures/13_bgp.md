@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-22
+date: 2025-10-27
 title: The Internet Architecture
 thumbnail: /static_files/presentations/lec.jpg
 links: 

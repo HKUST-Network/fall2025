@@ -1,5 +1,5 @@
----
-type: lecture
+<!-- ---
+type: lecture -->
 date: 2025-11-24
 title: Advanced Topics in Networking
 thumbnail: /static_files/presentations/lec.jpg
