@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-03
+date: 2025-11-05
 title: Local Area Network
 thumbnail: /static_files/presentations/lec.jpg
 links: 

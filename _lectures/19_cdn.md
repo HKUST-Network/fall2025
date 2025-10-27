@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-11-17
-title: Content Delivery Networks
+date: 2025-11-19
+title: Content Delivery Networks and Datacenter Networks
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: https://canvas.ust.hk/courses/58326/modules/items/1454251

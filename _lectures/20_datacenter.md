@@ -1,6 +1,6 @@
----
-type: lecture
-date: 2025-11-19
+<!-- ---
+type: lecture -->
+date: 2025-11-24
 title: Datacenter Network
 thumbnail: /static_files/presentations/lec.jpg
 links: 
