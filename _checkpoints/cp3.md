@@ -47,7 +47,7 @@ Slow start: at the beginning, CWND is 1 MSS and every time the sender receives a
 
 Congestion avoidance: During the slow start process, CWND is not doubled all time. After CWND reaches the threshold value-SSTHRESH (MSS * 64 by default), CWND only increases (MSS/CWND) MSS, which is equal to 1 MSS every RTT time. This process is called congestion avoidance.
 
-Fast recovery: By default, the sender have to go back to slow start state when the sender detects three duplicate ACK or timeout (**to simplify, we don't need to consider timeout in our project**). But now, we have fast recovery, which means the sender only needs to set SSTHRESH=SSTHRESH/2 and CWND=SSTHRESH+3*MSS.
+Fast recovery: By default, the sender have to go back to slow start state when the sender detects three duplicate ACK or timeout (**to simplify, we don't need to consider timeout in our project**). But now, we have fast recovery, which means the sender only needs to set SSTHRESH=CWND/2 and CWND=SSTHRESH+3*MSS.
 
 ![](../_images/cp3/state_diagram.png)
 So what you have to do is to implement this FSM. And you have to update the sending window size according to min(CWND, RWND) all the time. For this FSM, we already have provided some variables in the code.
