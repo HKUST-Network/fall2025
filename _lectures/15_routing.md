@@ -1,11 +1,11 @@
 ---
 type: lecture
 date: 2025-11-10
-title: LAN Routing
+title: Distance Vector
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    # - url: https://canvas.ust.hk/courses/58326/modules/items/1451070
-    #   name: slides
+    - url: https://canvas.ust.hk/courses/65049/modules/items/1676259
+      name: slides
     # - url: https://canvas.ust.hk/courses/58326/pages/elec3120-l1-2024-10-31-15-00
     #   name: recording
     # - url: https://canvas.ust.hk/courses/58326/modules/items/1451962
