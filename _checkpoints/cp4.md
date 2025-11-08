@@ -43,7 +43,7 @@ You now have the opportunity to design your own CCA with the goal of outperformi
 ## Hint
 * You can go through the lecture: Congestion Control and lecture: Advanced Congestion Control again.
 * Due to the lack of the timeout retransmission, sometimes your program may stuck please try/submit again.
-* **Test link: RTT = 200ms, the buffer size of the router is 20 packets. So the router will drop packets when the buffer is full.**
+* <font color=red> <strong >Test link: RTT = 200ms, the buffer size of the router is infinite. But the router will add extra delay Xms when the buffer depth exceeds N. </strong> </font> For example, if N = 5 and there are currently 10 packets in the buffer, extra delay will be added for packets 6 through 10.
 
 ## How to test by yourself
 ### tcconfig
